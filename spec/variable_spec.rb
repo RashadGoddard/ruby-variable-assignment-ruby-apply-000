@@ -5,4 +5,4 @@ describe "./variable.rb" do
 RSpec.configure do |config|
   config.order = 'default'
 end
-
+end
